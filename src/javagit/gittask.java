@@ -37,6 +37,8 @@ public class gittask {
 		int id6 = System.identityHashCode(s6);
 		System.out.println(id6);
 		
+		int id8 = System.identityHashCode(s6);
+		System.out.println(id8);
 		
 	}
 	
